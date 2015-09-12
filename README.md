@@ -3,6 +3,6 @@ leetcode solution [python, c++, java]
 
 total 263 algorithms problem
 # progress	
-	python 33 / 263
+	python 36 / 263
 	c++    0  / 263
 	java   0  / 263
