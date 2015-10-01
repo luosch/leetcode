@@ -14,8 +14,15 @@ class Solution(object):
             self.dfs(level + 1, selected)
 
 
-    def subsets(self, nums):
+    def subsets_slow(self, nums):
         self.answers = []
         self.numbers = sorted(nums)
         self.dfs(0, [])
         return self.answers
+    
+    def subsets(self, nums):
+        answers = [[]]
+        nums.sort()
+        for num in nums:
+            answers.extend([item + [num] for item in answers])
+        return answers
