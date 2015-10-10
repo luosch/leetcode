@@ -6,7 +6,7 @@
 #         self.right = None
 
 class Solution(object):
-    def levelOrderBottom(self, root):
+    def levelOrder(self, root):
         if not root:
             return []
         
@@ -19,4 +19,4 @@ class Solution(object):
                 tmp.extend([node.left, node.right])
             level = [node for node in tmp if node]
         
-        return tree[::-1]
+        return tree
