@@ -1,8 +1,8 @@
 # leetcode
 leetcode solution [python, cpp, java]
 
-total 274+17 algorithms problem
+total 275+17 algorithms problem
 # progress	
-	python 102+4 / 274+17
-	cpp    0     / 274+17
-	java   0     / 274+17
+	python 103+4 / 275+17
+	cpp    0     / 275+17
+	java   0     / 275+17
