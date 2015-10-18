@@ -9,6 +9,6 @@ class Solution(object):
 
         for i in range(n - 1):
             if s[i] == s[i + 1] == +:
-                    ans.append(%s--%s % (s[0:i], s[i+2:]))
+                ans.append(%s--%s % (s[0:i], s[i+2:]))
         
         return ans
