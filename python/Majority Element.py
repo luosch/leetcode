@@ -3,13 +3,11 @@ class Solution(object):
         votes = 0
         number = 0
         for num in nums:
-            if votes == 0:
+            if number == num:
+                votes += 1
+            elif votes == 0:
                 number = num
                 votes += 1
             else:
-                if number == num:
-                    votes += 1
-                else:
-                    votes -= 1
+                votes -= 1
         return number
-        
