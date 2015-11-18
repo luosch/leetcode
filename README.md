@@ -1,5 +1,5 @@
 # leetcode
-leetcode solution [python cpp java]
+leetcode solution [python, cpp, java]
 
 total 289+17 algorithms problem
 # progress	
