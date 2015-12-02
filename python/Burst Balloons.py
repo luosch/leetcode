@@ -9,4 +9,4 @@ class Solution(object):
                 for k in xrange(left + 1, right):
                     dp[left][right] = max(dp[left][right],                         nums[left] * nums[k] * nums[right] + dp[left][k] + dp[k][right])
         
-        return dp[0][n]
+        return dp[0][n - 1]
