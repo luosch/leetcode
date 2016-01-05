@@ -7,4 +7,5 @@ total 307 algorithms problem
 	cpp    0   / 307
 	java   0   / 307
 
-
+## License
+This code is distributed under the terms and conditions of the MIT license.
