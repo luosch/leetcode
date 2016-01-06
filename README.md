@@ -1,11 +1,11 @@
 # leetcode
 leetcode solution [python, cpp, java]
 
-total 307 algorithms problem
+total 308 algorithms problem
 # progress	
-	python 226 / 307
-	cpp    0   / 307
-	java   0   / 307
+	python 226 / 308
+	cpp    0   / 308
+	java   0   / 308
 
 ## License
 This code is distributed under the terms and conditions of the MIT license.
