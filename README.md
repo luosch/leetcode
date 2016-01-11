@@ -6,7 +6,7 @@ leetcode solution [python, cpp, java, shell, sql]
     python  235 / 310
     cpp     0   / 310
     java    0   / 310
-    shell   1   / 4
+    shell   2   / 4
 ```
 
 ## License
