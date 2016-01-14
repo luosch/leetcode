@@ -3,7 +3,7 @@ leetcode solution [python, cpp, java, shell, sql]
 
 # progress
 ```	
-    python  236 / 310
+    python  237 / 310
     cpp     0   / 310
     java    0   / 310
     bash    4   / 4
