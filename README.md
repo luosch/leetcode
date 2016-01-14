@@ -6,7 +6,7 @@ leetcode solution [python, cpp, java, shell, sql]
     python  236 / 310
     cpp     0   / 310
     java    0   / 310
-    bash    3   / 4
+    bash    4   / 4
     mysql   0   / 13
 ```
 
