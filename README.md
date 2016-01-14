@@ -7,7 +7,7 @@ leetcode solution [python, cpp, java, shell, sql]
     cpp     0   / 310
     java    0   / 310
     bash    4   / 4
-    mysql   0   / 13
+    mysql   1   / 13
 ```
 
 ## License
