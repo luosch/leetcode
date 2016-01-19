@@ -6,8 +6,22 @@
 #         self.right = None
 
 class Solution(object):
-    def binaryTreePaths(self, root):
+    def maxPathSum(self, root):
+        self.maxSum = float('-inf')
+        self.helper(root)
+        return self.maxSum
+        
+    def helper(self, root):
         if not root:
-            return []
-        else:
-            return [str(root.val) + '->' + path                 for leaf in (root.left, root.right) if leaf                 for path in self.binaryTreePaths(leaf)] or ['%d' % root.val]
+            return 0
+        
+        left = self.helper(root.left)
+        right = self.helper(root.right)
+        
+        if left < 0:
+            left = 0
+        if right < 0:
+            right = 0
+        
+        self.maxSum = max(self.maxSum, left + right + root.val)
+        return max(left, right) + root.val
