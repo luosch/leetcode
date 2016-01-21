@@ -3,11 +3,11 @@ leetcode solution [python, cpp, java, shell, sql]
 
 # progress
 ```	
-    python  246 / 311
+    python  247 / 311
     cpp     0   / 311
     java    0   / 311
     bash    4   / 4
-    mysql   4   / 13
+    mysql   5   / 13
 ```
 
 ## License
