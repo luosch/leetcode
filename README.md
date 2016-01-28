@@ -3,9 +3,9 @@ leetcode solution [python, cpp, java, shell, sql]
 
 # progress
 ```	
-    python  253 / 312
-    cpp     0   / 312
-    java    0   / 312
+    python  254 / 313
+    cpp     0   / 313
+    java    0   / 313
     bash    4   / 4
     mysql   6   / 13
 ```
