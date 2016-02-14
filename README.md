@@ -1,7 +1,9 @@
 ##Leetcode
+
 leetcode solution [python, cpp, java, shell, sql]
 
 ##Progress
+
 ```	
     python  267 / 316
     cpp     0   / 316
@@ -11,4 +13,5 @@ leetcode solution [python, cpp, java, shell, sql]
 ```
 
 ##License
+
 All source code is licensed under the [MIT License](https://raw.githubusercontent.com/luosch/leetcode/master/LICENSE).
