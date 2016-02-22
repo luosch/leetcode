@@ -5,7 +5,7 @@ leetcode solution [python, cpp, java, shell, sql]
 ##Progress
 
 ```	
-    python  274 / 317
+    python  275 / 317
     cpp     0   / 317
     java    0   / 317
     bash    4   / 4
