@@ -6,10 +6,10 @@ leetcode solution [python, cpp, java, shell, sql]
 
 ```	
     python  277 / 318
-    cpp     13  / 318
+    cpp     15  / 318
     java    0   / 318
     bash    4   / 4
-    mysql   7   / 13
+    mysql   7   / 15
 ```
 
 ##License
