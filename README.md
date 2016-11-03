@@ -5,11 +5,11 @@ leetcode solution [python, cpp, java, shell, sql]
 ##Progress
 
 ```	
-    python  277 / 320
-    cpp     59  / 320
-    java    0   / 320
+    python  277 / 417
+    cpp     59  / 417
+    java    0   / 417
     bash    4   / 4
-    mysql   7   / 15
+    mysql   7   / 13
 ```
 
 ##License
